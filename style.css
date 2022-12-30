@@ -296,4 +296,7 @@ a.button:hover {
   zoom: 1;
 }
 
+.music {
+	display: none;
+}
 .upper { text-transform: uppercase; }
